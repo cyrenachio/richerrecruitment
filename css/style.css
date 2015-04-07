@@ -128,7 +128,7 @@ nav ul li a:hover{
 .service-text-normal{
 	padding-bottom: 15px;
 	font-family: Arial;
-	color: #aeaeae; font-size:18px;
+	color: #919191; font-size:18px;
 }
 .know-more{
 	padding:0px 0px 10px 0px;
@@ -366,9 +366,9 @@ footer{
 	width:100%;
 	margin:30px 0px 10px 0px;
 	padding:0px;
-	font-size:36px;
+	font-size:28px;
 	font-weight:bold;
-	font-family:Georgia;
+	font-family:Georgia; color:#333333
 }
 .first-para{
 	width:100%;
@@ -399,8 +399,7 @@ footer{
 	padding:0;
 	font-family:Arial;
 	font-weight:bold;
-	//border:1px solid;
-	color:#606060;
+	color:#606060; font-size:15px;
 }
 .sectors-list{
 	width:50%;
@@ -623,5 +622,7 @@ footer{
 	padding: 25px 0px 0px 10px;
 	margin-left: 0px;
 }
+.more-about{ background:url(../images/more-about.jpg) no-repeat; width:210px ; height:47px; margin-top:20px !important; float:left}
+.more-container{ margin:0px auto; width:900px; position:relative; z-index:99999}
 
 
